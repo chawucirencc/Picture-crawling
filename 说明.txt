@@ -1,0 +1,1 @@
+使用requests，lxml，etree，爬取https://wallhaven.cc/图片网站，toplist页面的图片，可以选择爬取多页。网页的响应时间会比较久。
